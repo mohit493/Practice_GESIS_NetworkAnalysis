@@ -3,7 +3,6 @@ A notebook for practicing Network Analysis based on GESIS compsoc [Elite familie
 
 + Directed Graph
 + Multigraph
-+ Visualisation
 
 Please check the licence in the **Terms of Use** of the repository.
 
