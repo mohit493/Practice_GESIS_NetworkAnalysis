@@ -1,4 +1,4 @@
-# Practice_NetworkAnalysis
+# Network Analysis
 A notebook for practicing Network Analysis based on GESIS compsoc [Elite families](https://github.com/gesiscss/compsoc/blob/daf3a12ecfb6e5ee206f4a34131b0ff9c855f271//elite_families.ipynb) notebook.
 
 + Directed Graph
